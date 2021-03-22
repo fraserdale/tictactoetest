@@ -1,6 +1,6 @@
 # Tic Tac Toe Game Status
 
-A function that takes in a tic tac toe board and returns the current status of the game.
+A fully tested, scalable function that returns the current status of a tictactoe game 
 ```
 gameStatus([
 ['X','O','X'],
