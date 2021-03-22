@@ -1,7 +1,17 @@
 # Tic Tac Toe Game Status
 
 A function that takes in a tic tac toe board and returns the current status of the game.
-
+```
+gameStatus([
+['X','O','X'],
+['O','X',''],
+['X','','O']
+])
+```
+Returns
+```
+X - won
+```
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
