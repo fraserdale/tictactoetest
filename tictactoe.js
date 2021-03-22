@@ -1,3 +1,10 @@
+// A function to return the current status of a game of tic tac toe
+/**
+ * Returns the  current status of a game of tic tac toe
+ *
+ * @param {Array} board A tic tac toe board 
+ * @return {String} The current status of the game.
+ */
 exports.gameStatus = function(board) {
     //setting the default status
     let status = 'Game still in progress'
