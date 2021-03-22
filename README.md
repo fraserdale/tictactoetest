@@ -12,6 +12,16 @@ These instructions will get you a copy of the project up and running on your loc
 npm install
 ```
 
+## Testing instructions
+
+```
+npm run test
+```
+
+
+## Demo
+![Successful testing](https://github.com/fraserdale/tictactoetest/blob/main/demo.PNG)
+
 ## Built With
 
 * [Mocha](https://github.com/mochajs/mocha) - Test Framework
@@ -19,7 +29,7 @@ npm install
 
 ## Authors
 
-* Fraser Dale* - [Fraser Dale](https://github.com/fraserdale)
+* [Fraser Dale](https://github.com/fraserdale)
 
 ## License
 
